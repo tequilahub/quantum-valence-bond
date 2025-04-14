@@ -6,6 +6,13 @@ Example repository for [ArXiv:2302.10660](https://arxiv.org/abs/2302.10660)
 - [h4-slow.py](h4-slow.py): slow example (does not need extra structures)  
 - [utils.py](utils.py): providing extra structures for fast example  
 
+## Setup
+```bash
+git clone https://github.com/tequilahub/quantum-valence-bond
+cd quantum-valence-bond
+pip install -e .
+```  
+
 ## In a nutshell
 
 - small quantum circuits are generated via graph-based construction (see [ArXiv:2207.12421](https://arxiv.org/abs/2207.12421))  

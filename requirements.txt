@@ -2,3 +2,4 @@ numpy
 scipy
 qulacs
 tequila-basic
+pyscf
